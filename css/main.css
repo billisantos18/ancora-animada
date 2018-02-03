@@ -1,0 +1,23 @@
+body {
+}
+
+.home {
+    background-color: black;
+	color: white;
+    height: 700px;
+	padding: 50px 0px;
+}
+
+.about {
+	background: white;
+	color: black;
+	height: 700px;
+	padding: 50px 0px;
+}
+
+.contact {
+	background: red;
+	color: white;
+	height: 700px;
+	padding: 50px 0px;
+}
